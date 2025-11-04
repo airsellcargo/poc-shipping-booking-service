@@ -1,0 +1,10 @@
+{
+  "origin": "HGA",
+  "destination": "NBO",
+  "commodity": "General Cargo",
+  "weight": "200kg",
+  "dimensions": "50x50x80cm",
+  "packages": 10,
+  "handling": "Standard",
+  "requestedRate": true
+}
